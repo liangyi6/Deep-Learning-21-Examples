@@ -1,12 +1,12 @@
-## Deep-Learning-21-Examples
+# 21个项目玩转深度学习———基于TensorFlow的实践详解
 
-本工程是《21个项目玩转深度学习———基于TensorFlow的实践详解》的配套代码，代码推荐的运行环境为：Ubuntu 14.04，Python 2.7、TensorFlow >= 1.4.0。请尽量使用类UNIX系统和Python 2运行本书的代码。
+本工程是《21个项目玩转深度学习———基于TensorFlow的实践详解》的配套代码，代码推荐的运行环境为：Ubuntu 14.04，Python 2.7、TensorFlow >= 1.4.0。请尽量使用类UNIX系统和Python 2运行本书的代码。感谢 [hzy46/Deep-Learning-21-Examples](https://github.com/hzy46/Deep-Learning-21-Examples) 提供原始内容。
 
 - 电子书下载地址：
 
   [点我下载](https://pan.baidu.com/s/1YCfA9LQZdhqAyuaMS2yc_g)
 
-**精彩内容**
+## **精彩内容**
 
 ![p1](https://ws2.sinaimg.cn/large/006tNbRwgy1fujti2i3wdj30ow0tm77e.jpg)
 
@@ -14,7 +14,7 @@
 
 ![p3](https://ws1.sinaimg.cn/large/006tNbRwgy1fujtj947odj30p40zc40o.jpg)
 
-**内容目录：**
+## **内容目录：**
 
 ![1](https://ws2.sinaimg.cn/large/006tNbRwgy1fujtda7ctwj311g0vmahz.jpg)
 
@@ -31,8 +31,6 @@
 ![7](https://ws2.sinaimg.cn/large/006tNbRwgy1fujtgapa7wj30rq0y20w3.jpg)
 
 ![7](/var/folders/34/b48wfdt532q05zmvgtwd86kh0000gn/T/abnerworks.Typora/image-20180823183550170.png)
-
-
 
 ### 快速指引
 
@@ -68,6 +66,6 @@
 
 例如：第四章有chapter\_4/和chapter\_4\_data/两个文件夹，前者是源代码，后者是在运行程序时会用的数据文件。
 
-由于数据文件通常比较大，建议读者在用到时候再进行下载，下载地址为：[https://pan.baidu.com/s/1i7pKvFf](https://pan.baidu.com/s/1i7pKvFf)，提取码：1kmf。
+由于数据文件通常比较大，建议读者在用到时候再进行下载，下载地址为：https://pan.baidu.com/s/1ovibKWXlhhy67zS_erYnCw
 
 
