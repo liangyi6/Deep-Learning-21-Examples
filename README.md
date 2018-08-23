@@ -2,12 +2,37 @@
 
 本工程是《21个项目玩转深度学习———基于TensorFlow的实践详解》的配套代码，代码推荐的运行环境为：Ubuntu 14.04，Python 2.7、TensorFlow >= 1.4.0。请尽量使用类UNIX系统和Python 2运行本书的代码。
 
-欢迎有兴趣的同学猛戳下面的链接购买：
-- 京东：[https://item.jd.com/12327358.html](https://item.jd.com/12327358.html)
-- 天猫：[https://detail.tmall.com/item.htm?id=566399074299](https://detail.tmall.com/item.htm?id=566399074299)
-- 当当：[http://product.dangdang.com/25245282.html](http://product.dangdang.com/25245282.html)
+- 电子书下载地址：
 
-写作这本书的初衷是希望提供一个**深度学习实践案例的合集**，让每个人都可以在“动手实验”的过程中，比较轻松地掌握深度学习和TensorFlow的使用技巧，并且能完整地做出一些有意思的项目。**希望大家能在实践的过程中找到乐趣，如果有任何问题，欢迎通过[issues](https://github.com/hzy46/Deep-Learning-21-Examples/issues)提出纠错或改进建议。**
+  [点我下载](https://pan.baidu.com/s/1YCfA9LQZdhqAyuaMS2yc_g)
+
+**精彩内容**
+
+![p1](https://ws2.sinaimg.cn/large/006tNbRwgy1fujti2i3wdj30ow0tm77e.jpg)
+
+![p2](https://ws4.sinaimg.cn/large/006tNbRwgy1fujtisgc8yj30os0tq76x.jpg)
+
+![p3](https://ws1.sinaimg.cn/large/006tNbRwgy1fujtj947odj30p40zc40o.jpg)
+
+**内容目录：**
+
+![1](https://ws2.sinaimg.cn/large/006tNbRwgy1fujtda7ctwj311g0vmahz.jpg)
+
+![2](https://ws3.sinaimg.cn/large/006tNbRwgy1fujte4pk9ej30qs0xy7az.jpg)
+
+![3](https://ws2.sinaimg.cn/large/006tNbRwgy1fujtemxyjpj30qo0y077m.jpg)
+
+![4](https://ws3.sinaimg.cn/large/006tNbRwgy1fujtf55p9oj30r20ycq66.jpg)
+
+![5](https://ws3.sinaimg.cn/large/006tNbRwgy1fujtfijok6j30qw0xu77o.jpg)
+
+![6](https://ws3.sinaimg.cn/large/006tNbRwgy1fujtfxfpvsj30r60y441t.jpg)
+
+![7](https://ws2.sinaimg.cn/large/006tNbRwgy1fujtgapa7wj30rq0y20w3.jpg)
+
+![7](/var/folders/34/b48wfdt532q05zmvgtwd86kh0000gn/T/abnerworks.Typora/image-20180823183550170.png)
+
+
 
 ### 快速指引
 
@@ -46,11 +71,3 @@
 由于数据文件通常比较大，建议读者在用到时候再进行下载，下载地址为：[https://pan.baidu.com/s/1i7pKvFf](https://pan.baidu.com/s/1i7pKvFf)，提取码：1kmf。
 
 
-### 其他链接
-
-- 意见反馈邮箱：hzydl21 [at] 163.com
-- 我的专栏博客：[AI Insight](https://zhuanlan.zhihu.com/ai-insight)
-
-### 致谢
-
-感谢电子工业出版社的孙学瑛女士和宋亚东先生为本书付出的努力，同时也感谢刘婧源同学给本书的宝贵建议。本书对于来自于网络的代码，在书中和配套代码的Readme文件中，均作了引用说明，在此也对原作者表示深深的感谢。
